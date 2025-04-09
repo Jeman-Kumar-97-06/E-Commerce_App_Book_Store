@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.env
+.DS_Store
+.nyc_output/
+coverage/
+debug.log
+*.log
+.idea/
+.vscode/
+Thumbs.db
